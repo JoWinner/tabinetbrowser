@@ -112,7 +112,7 @@ Tabinet offers a structured licensing model to ensure users have the necessary p
 - **Smart Recommendations**: AI-powered suggestions for optimizing tab usage and organization.
 
 ### 🌐 VPN & Proxy for Tabs
-- **VPN**: Enable VPN connections on a per-tab basis for enhanced privacy and security.
+- **VPN**: Enable VPN and Proxy connections on tabs for enhanced privacy and security.
 
 ### 📈 Performance Enhancements
 - **Optimized Resource Usage**: Improve memory and CPU usage for smoother performance.
