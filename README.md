@@ -12,14 +12,6 @@ Welcome to **Tabinet**! This is a privacy-first desktop browser that aims to _he
 
 You can check out a demo video here: [Demo Link]([https://example.com/demo](https://www.tabinetbrowser.com/videos/demo_video.mp4))
 
----
-
-## Table of Contents 📜
-
-- [Features](#features-✨)
-- [Access and Licensing in Tabinet](#licenseaccess-🔑)
-- [Tabinet Roadmap](#roadmap-🗺️)
-- [Feedback and Contributions](#feedback-🗺️)
 
 ---
 
@@ -151,4 +143,4 @@ Tabinet offers a structured licensing model to ensure users have the necessary p
 We welcome user feedback and contributions to help shape the future of Tabinet. Please reach out via email or GitHub issues.
 
 - **Email**: hello@tabinetbrowser.com
-- **X Account**: [@jowinner_](https://x.com/jowinner_)
+- **X**: [@jowinner_](https://x.com/jowinner_)
