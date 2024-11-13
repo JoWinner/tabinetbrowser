@@ -9,7 +9,7 @@
 Welcome to **Tabinet**! This is a privacy-first desktop browser that aims to _help users browse and manage their entire online activities onn multiple splitscreens side-by-side._
 
 ### Demo 🎥
-You can check out a demo video here: [Demo Link](https://www.tabinetbrowser.com/videos/demo_video.mp4)
+You can check out a demo video here: [Demo video](https://www.tabinetbrowser.com/videos/demo_video.mp4)
 
 
 ---
